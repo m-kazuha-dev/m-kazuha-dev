@@ -1,16 +1,16 @@
-## Hi there 👋
+# こんにちは！m-kazuha-dev です 👋
 
-<!--
-**m-kazuha-dev/m-kazuha-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+現在、バックオフィス系SaaS企業の開発職を目指して、Go/PHP/Dockerなどを学習中です。
 
-Here are some ideas to get you started:
+## 🚀 技術スタック
+- **言語**: C#, Python, PHP
+- **学習中**: Go, PHP
+- **環境**: Docker
+- **ツール**: Cursor (AI活用), Notion (進捗管理)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 目標
+- Gitを活用したチーム開発フローの習得
+- パートナーとのアプリ開発を通じた実戦的な開発スキルの向上
+- バックオフィス業務を効率化するエンジニアへの成長
+
+日々の学習やアウトプットをここに記録していきます！
